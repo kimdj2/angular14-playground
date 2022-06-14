@@ -11,5 +11,5 @@ import { RouterModule } from '@angular/router';
   imports:[ RouterModule, CommonModule ]
 })
 export class AppComponent {
-  title = 'angular14-playground';
+  title = 'testComponent';
 }
